@@ -8,11 +8,11 @@ body {
 
 /* Style the header */
 header {
-  background-color: #6930C3;
+  background-color:#73276f ;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: white;
+  color:#635796 ;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #5390D9;
+  background-color: #434dab;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,7 +47,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #5E60CE;
+  background-color: #5cc225;
   padding: 10px;
   text-align: center;
   color: #242e0f;
