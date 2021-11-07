@@ -8,11 +8,11 @@ body {
 
 /* Style the header */
 header {
-  background-color:#b044db;
+  background-color: #6930C3;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color:#825f5e;
+  color: white;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -20,7 +20,7 @@ nav {
   float: left;
   width: 15%;
   /*height: 300px;  only for demonstration, should be removed */
-  background:#000a01;
+  background: #FFFFFF;
  padding: 20px;
 }
 
@@ -34,7 +34,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color:#54e8d2;
+  background-color: #5390D9;
   /* height: 300px;  only for demonstration, should be removed */
 }
 
@@ -47,10 +47,10 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color:#3ee649;
+  background-color: #5E60CE;
   padding: 10px;
   text-align: center;
-  color:#000a01 ;
+  color: white;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
