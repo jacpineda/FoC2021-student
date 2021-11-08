@@ -31,7 +31,7 @@ nav ul {
 }
 
 article {
-  float: center;
+  float: left;
   padding: 20px;
   width: 70%;
   background-color:#4bd7fa;
@@ -66,7 +66,7 @@ footer {
 
 /* Create two equal columns that floats next to each other */
 .column {
-  float: left;
+  float: center;
   width: 50%;
   padding: 10px;
 
